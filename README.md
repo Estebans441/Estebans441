@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express and DynamoDB**
 
-- ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and play chess.
+- ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and chess.
 
 
 ## Languages
