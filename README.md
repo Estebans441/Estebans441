@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A passionate Systems Engineering and Data Science student from Colombia</h3>
+<h3 align="center">A passionate Systems Engineering and Data Science student from Colombia </h3>
 
 <p align="center">
     <img src="sources/octocat-1707966496448.png" height=350/>
