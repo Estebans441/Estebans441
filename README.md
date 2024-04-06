@@ -18,7 +18,7 @@
 
 ##
 
-- 🌱 I’m currently learning **Node.js, Express and DynamoDB**
+- 🌱 I’m currently learning **Express, Django and DynamoDB**
 
 - ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and chess.
 
