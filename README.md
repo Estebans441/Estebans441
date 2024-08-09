@@ -18,7 +18,7 @@
 
 ##
 
-- 🌱 I’m currently learning **React, Django and DynamoDB**
+- 🌱 I’m currently learning **.NET**
 
 - ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and chess.
 
@@ -32,7 +32,7 @@
 
 
 ### Frontend Frameworks
-![My Skills](https://skillicons.dev/icons?i=angular)
+![My Skills](https://skillicons.dev/icons?i=angular,react)
 
 ### Backend Frameworks
 ![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)
