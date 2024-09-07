@@ -18,7 +18,7 @@
 
 ##
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET**, **GO**, **RabbitMQ** and **Astro**
 
 - ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and chess.
 
@@ -26,13 +26,13 @@
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,typescript,r&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,cpp,dart,html,css,js,typescript,r,go&perline=15" />
   </a>
 </p>
 
 
 ### Frontend Frameworks
-![My Skills](https://skillicons.dev/icons?i=angular,react)
+![My Skills](https://skillicons.dev/icons?i=angular,react,astro)
 
 ### Backend Frameworks
 ![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)
