@@ -32,7 +32,7 @@
 
 
 ### Frontend Frameworks
-![My Skills](https://skillicons.dev/icons?i=angular,react,astro)
+![My Skills](https://skillicons.dev/icons?i=angular,react,next,astro)
 
 ### Backend Frameworks
 ![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)
