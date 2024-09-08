@@ -41,7 +41,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis)
 
 ### DevOps
-![My Skills](https://skillicons.dev/icons?i=docker)
+![My Skills](https://skillicons.dev/icons?i=docker,githubactions)
 
 ### Other Tools
 ![My Skills](https://skillicons.dev/icons?i=git,firebase,androidstudio,flutter,scikitlearn,figma,arduino,rabbitmq)
