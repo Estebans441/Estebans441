@@ -18,7 +18,7 @@
 
 ##
 
-- 🌱 I’m currently learning **.NET**, **GO**, **RabbitMQ** and **Astro**
+- 🌱 I’m currently learning **.NET**
 
 - ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and chess.
 
@@ -38,13 +38,13 @@
 ![My Skills](https://skillicons.dev/icons?i=nodejs,spring,express)
 
 ### Databases
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis)
 
 ### DevOps
 ![My Skills](https://skillicons.dev/icons?i=docker)
 
 ### Other Tools
-![My Skills](https://skillicons.dev/icons?i=git,firebase,androidstudio,flutter,scikitlearn,figma,arduino)
+![My Skills](https://skillicons.dev/icons?i=git,firebase,androidstudio,flutter,scikitlearn,figma,arduino,rabbitmq)
 
 
 ## My Stats
