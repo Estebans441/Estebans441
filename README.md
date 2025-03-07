@@ -18,7 +18,7 @@
 
 ##
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Kubernetes, Terraform**
 
 - ⚽ In my free times I like to play and watch football, solve puzzles, play videogames and chess.
 
